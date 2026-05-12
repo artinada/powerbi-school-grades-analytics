@@ -1,5 +1,16 @@
-<add>
-Describe the following:
+## Dashboard Features
+
+The dashboard includes:
+- KPI cards
+- line charts
+- clustered bar charts
+- matrix visualizations
+- drill-down hierarchies
+- conditional formatting
+- geographic analysis
+- interactive filtering
+
+-- Describe the following:
 
 - why these specific visualizations were chosen
 - how the interactions are configured
