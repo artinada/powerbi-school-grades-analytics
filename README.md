@@ -37,65 +37,6 @@ The goal was to transform raw operational CSV files into a clean analytical mode
 | periods.csv |	Academic periods |
 | classes.csv |	Class dimension |
 
-## Architecture / Star Schema
-
-<screen of model> 
-  
-### Data Model
-
-The project uses a Star Schema approach:
-
-Fact table:
-- grades
-
-Dimension tables:
-- students
-- classes
-- teachers
-- subjects
-- periods
-- calendar
-
-Relationships:
-- One-to-Many
-- Single direction filtering
-
-## Data Cleaning & Transformation
-
-Data preparation included:
-- fixing inconsistent date formats
-- locale-aware date parsing (en-US)
-- correcting data types
-- handling blank grade types
-- validating primary keys
-- checking duplicates and null values
-- preparing fact and dimension tables
-
-## DAX Measures
-
-Key DAX calculations:
-- Average Grade
-- Exam Average Grade
-- Homework Average Grade
-- Test Average Grade
-
-Calendar table:
-- Year
-- Month Name
-- Month Number
-- Year-Month
-
-## Dashboard Features
-
-The dashboard includes:
-- KPI cards
-- line charts
-- clustered bar charts
-- matrix visualizations
-- drill-down hierarchies
-- conditional formatting
-- geographic analysis
-- interactive filtering
 
 ## Project Structure
 ```
