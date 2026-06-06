@@ -1,7 +1,7 @@
 ## Architecture / Star Schema
 
 <p align="center">
-  <img src="https://github.com/artinada/powerbi-school-grades-analytics/assets/star-schema.png?raw=true" alt="Star Schema Image"/>
+  <img src="https://github.com/artinada/powerbi-school-grades-analytics/blob/main/powerbi/screenshots/data-model.png?raw=true" alt="Star Schema Image"/>
 </p>
 
 
