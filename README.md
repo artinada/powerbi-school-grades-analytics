@@ -164,7 +164,6 @@ Features:
 - Compact analytical insights
 
 ## Dashboard Design Principles
-
 The report follows enterprise dashboard design principles:
 
 - unified color palette,
@@ -177,16 +176,12 @@ The report follows enterprise dashboard design principles:
 
 The dashboard is designed as a complete analytical product rather than isolated report pages.
 
-## Key Learning Outcomes
-This project demonstrates practical experience with:
-
-- enterprise Power BI dashboard development,
-- analytical storytelling,
-- time intelligence implementation,
-- dashboard standardization,
-- advanced visualization techniques,
-- Power BI quick measures,
-- business-oriented analytical design.
+## Business Recommendations
+- Investigate the causes of lower performance in Computer Science courses.
+- Review project assessment criteria and student support mechanisms, as projects exhibit the highest failure rate.
+- Monitor testing practices, since tests account for the largest number of failing grades.
+- Pay particular attention to periods preceding semester-end assessments, where seasonal declines in performance are observed.
+- Continue monitoring long-term trends, although current forecasting indicates stable academic outcomes.
 
 ## Skills Demonstrated
 ### Power Query
@@ -229,7 +224,7 @@ This project demonstrates practical experience with:
 - Power Query
 - GitHub
 
-### Author
+## Author
 
 Nadia Kamenski
 
